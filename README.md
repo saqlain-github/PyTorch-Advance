@@ -1,7 +1,7 @@
 # PyTorch-Advanced
 Contains pytorch topics from basics to advance 
 
-<img align="right" alt="GIF" src="https://github.com/saqlain-github/PyTorch-Advanced/blob/main/img/Pytorch.png" height="600" /><br>
+<img align="right" alt="GIF" src="https://github.com/saqlain-github/PyTorch-Advanced/blob/main/img/Pytorch.png"  /><br>
 <br>
 <h2> :man_technologist: Topics Covered :</h2>
 
