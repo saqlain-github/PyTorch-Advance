@@ -1,4 +1,4 @@
-# PyTorch-Advanced
+# PyTorch-Advance
 Contains pytorch topics from basics to advance 
 
 <img align="right" alt="GIF" src="https://github.com/saqlain-github/PyTorch-Advanced/blob/main/img/Pytorch.png"  /><br>
